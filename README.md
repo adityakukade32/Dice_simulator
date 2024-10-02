@@ -22,3 +22,9 @@ The Dice Simulator is a simple game that simulates the rolling of dice. Players 
    ```bash
    git clone https://github.com/adityakukade32/Dice_simulator.git
    cd Dice_simulator
+
+
+
+
+- ![image](https://github.com/user-attachments/assets/bfa83873-f384-426e-86b0-89866b252c69)
+
